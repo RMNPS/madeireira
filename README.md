@@ -1,6 +1,6 @@
 # madeireira
 
-Um projeto de site de aprensentação e contato de uma madeireira. Este projeto foi desenvolvido com Vue.js
+Um projeto de site de apresentação e contato de uma madeireira. Este projeto foi desenvolvido com Vue.js
 
 ## Project setup
 ```
