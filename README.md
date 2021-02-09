@@ -24,6 +24,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-#� �d�e�m�a�d�e�i�r�a�
-�
-�
+#
